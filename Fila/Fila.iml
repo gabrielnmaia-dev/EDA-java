@@ -7,6 +7,10 @@
       <sourceFolder url="file://$MODULE_DIR$/SenhasPrioridade" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SuperMercado" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/fila de impressao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AltaPrioridade" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ControleProcesso" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FilaTelefonica" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProntoSocorro" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

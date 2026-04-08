@@ -1,6 +1,6 @@
 void main() {
 
-    String frase = "eu gosto de java";
+    String frase = "  eu  gosto  de  java  ";
     String[] palavras = frase.split(" ");
 
     Pilha<String> pilha = new Pilha<>(palavras.length);

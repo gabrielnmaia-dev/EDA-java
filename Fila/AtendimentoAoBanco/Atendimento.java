@@ -1,4 +1,4 @@
-void main() {
+void Atendimento() {
 
         Queue<ClienteMercado> fila = new LinkedList<>();
 
@@ -21,4 +21,7 @@ void main() {
         System.out.println("\nFila vazia. Todos atendidos.");
 
 
+}
+
+void main() {
 }
