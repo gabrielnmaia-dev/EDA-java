@@ -1,4 +1,5 @@
 public class ClienteMercado {
+    public String senha;
     String nome;
     int produtos;
 

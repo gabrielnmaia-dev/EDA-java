@@ -1,6 +1,4 @@
-
-
-void Main() {
+void main() {
 
     // Fila com prioridade: menor número = maior prioridade
     // Em caso de empate, usa ordemChegada (menor = mais antigo)
@@ -68,9 +66,3 @@ private static void mostrarFilaOrdenada(PriorityQueue<Documento> filaOriginal) {
         posicao++;
     }
 }
-
-void main() {
-}
-
-
-

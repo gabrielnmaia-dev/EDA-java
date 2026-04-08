@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ControleProcesso" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FilaTelefonica" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ProntoSocorro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tarefas" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

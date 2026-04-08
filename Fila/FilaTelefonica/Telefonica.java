@@ -1,4 +1,4 @@
-void FilaTelefonica() {
+void main() {
     CentralTelefonica central = new CentralTelefonica();
     Scanner scanner = new Scanner(System.in);
     int opcao;
@@ -55,7 +55,4 @@ void FilaTelefonica() {
     } while (opcao != 5);
 
     scanner.close();
-}
-
-void main() {
 }

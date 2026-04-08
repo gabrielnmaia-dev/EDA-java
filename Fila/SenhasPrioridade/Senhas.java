@@ -1,4 +1,4 @@
-void SenhaPrioridade() {
+void main() {
     Queue<Pessoa> filaPrioritaria = new LinkedList<>();
     Queue<Pessoa> filaNormal = new LinkedList<>();
 
@@ -37,7 +37,4 @@ void SenhaPrioridade() {
     }
 
     System.out.println("\nAtendimento finalizado.");
-}
-
-void main() {
 }

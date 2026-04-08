@@ -26,6 +26,6 @@ public class Paciente {
             default: prioridadeStr = "DESCONHECIDA";
         }
         return nome + " (Prioridade " + prioridade + " - " + prioridadeStr + ")";
-    }
 
+    }
 }

@@ -1,4 +1,4 @@
-void ProntoSocorro() {
+void main() {
     PriorityQueue<Paciente> fila = new PriorityQueue<>(
             Comparator.comparingInt(Paciente::getPrioridade)
     );
@@ -52,7 +52,4 @@ void ProntoSocorro() {
 
     System.out.println("\n=== FIM DO ATENDIMENTO ===");
     System.out.println("Todos os pacientes foram atendidos!");
-}
-
-void main() {
 }

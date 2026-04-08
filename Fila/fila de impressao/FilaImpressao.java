@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
     Queue<Documento1> fila = new LinkedList<>();
 
@@ -26,4 +24,3 @@ void main() {
 
     System.out.println("\nFila de impressão vazia.");
 }
-

@@ -1,4 +1,4 @@
-void CProcessos() {
+void main() {
     ControleProcessos sistema = new ControleProcessos();
     Scanner scanner = new Scanner(System.in);
     int opcao;
@@ -68,7 +68,4 @@ void CProcessos() {
     } while (opcao != 6);
 
     scanner.close();
-}
-
-void main() {
 }
